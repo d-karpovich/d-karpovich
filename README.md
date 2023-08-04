@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Dmitry Karpovich
+# 👋 Hello, I'm Dmitry
 
 👀 Interested in projects in _Data Analysis_, _Data Science_, _ML_, and _Startups_
 
