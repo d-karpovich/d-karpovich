@@ -1,6 +1,6 @@
-# 👋 Hello, I'm Dmitry
+# Hello, I'm Dmitry
 
-👀 Interested in projects in _Data Analysis_, _Data Science_, _ML_, and _Startups_
+👀 Encouraged by projects in _Data Analysis_, _Data Science_, _AI_, _ML_, and _Startups_
 
 🌱 Currently learning Python (_Pandas_, _NumPy_, _SciPy_, _Matplotlib_, _SciKit-Learn_, _PyTorch_, _TensorFlow_)
 
